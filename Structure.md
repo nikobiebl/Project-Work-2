@@ -15,21 +15,37 @@ This approach is suitable as it allows for an in-depth analysis and a comprehens
 My own contribution of this thesis consists of the discussion of the current state of research and practice, the implementation and evaluation of various methods and algorithms for classification, and the implementation and evaluation of expert interviews. After these implementations, I will compare my results with the current state of theory and practice. Additionally, implications for future research are suggested at the end of the thesis, along with the formulation of general solution patterns.
 ## Table of Contents:
 1 Introduction
+
 2 Discussion of the Current State of Research and Practice
+
     2.1 Phishing Emails
+    
     2.2 Text Preparation and Feature Extraction
+    
     2.3 Classification Models
+    
     2.4 Existing Data Sets 
+    
 3 Objective Specification and Presentation of the Research Design
+
     3.1 Objective specification
+    
     3.2 Research Design
+    
     3.2 Selection and Description of the Dataset
+    
     3.3 Selection of Comparison Metrics
+    
     3.4 Selection of the Methods to be Compared
+    
 4 Test Execution
+
     4.1 Implementation of Different Methods
+    
     4.2 Evaluation of Different Methods
+    
 5 Discussion of Results
+
 6 Critical Reflection and Outlook
 ## Schedule:
 Week 1: Further and more precise literature review to gather relevant articles, exact determination of the methods and algorithms to be practically compared through literature
