@@ -1,2 +1,2 @@
 # Project-Thesis
-This repository was created as part of the course: "Data Exploration Project".
+As part of my dual studies program, I am writing a project thesis on "Comparative Evaluation of Classical Machine Learning Methods for Phishing Detection Using Text-Based Features on a Novel Dataset"
