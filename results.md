@@ -8,6 +8,6 @@
 | Linear SVM | TF-IDF | 0.993 | 0.993 | 0.993 | 0.994 |
 | Poly SVM | TF-IDF |  |  |  |  |
 | Multinomial NB | TF-IDF | 0.978 | 0.977 | 0.995 | 0.961 |
-| K-Nearest-Neighbor | TF-IDF | 0.695 | 0.766 | 0.620 | <span style="color:red">1.0 (0.99962)</span> |
+| K-Nearest-Neighbor | TF-IDF | 0.695 | 0.766 | 0.620 | 1.0 (0.99962) |
 
 
