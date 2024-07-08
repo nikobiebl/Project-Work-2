@@ -9,5 +9,6 @@
 | Poly SVM | TF-IDF |  |  |  |  |
 | Multinomial NB | TF-IDF | 0.978 | 0.977 | 0.995 | 0.961 |
 | K-Nearest-Neighbor | TF-IDF | 0.695 | 0.766 | 0.620 | 1.0 (0.99962) |
+| Gradient Boosting Machine | TF-IDF | 0.943 | 0.944 | 0.93 | 0.959 |
 
 
