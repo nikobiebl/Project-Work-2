@@ -1,16 +1,16 @@
 # Project Thesis Structure
 ## Working Title:
-Comparative Evaluation of Classical Machine Learning Methods for Phishing Detection Using Text-Based Features on a Novel Data Set
+Classical Machine Learning for Email Phishing Detection: A Comparative Study
 ## Problem Definition:
 Comprehensive email traffic remains by far the biggest security risk in large companies and cyberattacks are becoming increasingly popular as a result. Consequently, many companies are forced to make significant investments in cybersecurity. One effective method of reducing the risk of phishing emails and alleviating the burden on cybersecurity teams is the automated classification of emails using machine learning classifiers.
 Since email data from companies usually contains confidential and internal information, this data is not available to the public or the scientific community. Therefore, the number of email datasets from real corporate contexts is significantly low. The few datasets that are available are neither up to date nor of high quality.
 In May 2024, a new comprehensive phishing email dataset was published that combines the six most scientifically relevant datasets from this area into one. This has created a new opportunity and demand to test the performance of the most suitable methods for classifying phishing emails and to compare the results with previous studies.
-Central Research Question: Which machine learning methods and algorithms are most effective for the automated classification of corporate phishing emails based on the new comprehensive phishing email dataset published in May 2024?
+Which machine learning algorithms have the best performance for the automated classification of corporate phishing emails based on the new comprehensive phishing email data set? How do the new results compare to the current state of research?
 ## Objective:
-The objective of this scientific thesis is to systematically investigate and evaluate various methods and algorithms for vectorizing and classifying phishing emails using a newly published, comprehensive phishing email dataset from May 2024. The primary aim is to identify the most effective methods and algorithms for the automated classification of phishing emails within corporate environments.
+The primary objective is to identify the best performing algorithms for the automated classification of phishing emails within corporate environments. Additionally, the aim is to validate whether the results from current state of research accurately reflect the performance and effectiveness of these algorithms when applied to the new comprehensive dataset.
 ## Research Methodology:
-A qualitative research approach was chosen to answer the research question and achieve the objective. This involves conducting a comprehensive literature review, implementing and comparing different methods and algorithms in practice, and conducting several expert interviews.
-This approach is suitable as it allows for an in-depth analysis and a comprehensive understanding of various methods and algorithms. The literature review will encompass the current state of research, while the practical comparisons will provide empirical findings. Additionally, expert interviews will offer valuable insights from practitioners, resulting in well-founded and practical recommendations.
+A mixed-methods approach was chosen to answer the research question and achieve the objective. This includes a quantitative data analysis with classification using machine learning as the main method, supplemented by qualitative literature research and several qualitative expert interviews.
+This approach is suitable as it allows for an in-depth analysis and a comprehensive understanding of various algorithms. The literature review will encompass the current state of research, while the practical comparisons will provide empirical findings. Additionally, expert interviews will offer valuable insights from practitioners, resulting in well-founded and practical recommendations.
 ## Own Contribution:
 My own contribution of this thesis consists of the discussion of the current state of research and practice, the implementation and evaluation of various methods and algorithms for classification, and the implementation and evaluation of expert interviews. After these implementations, I will compare my results with the current state of theory and practice. Additionally, implications for future research are suggested at the end of the thesis, along with the formulation of general solution patterns.
 ## Table of Contents:
@@ -19,34 +19,33 @@ My own contribution of this thesis consists of the discussion of the current sta
 2 Discussion of the Current State of Research and Practice
 
     2.1 Phishing Emails
-    
+
     2.2 Text Preparation and Feature Extraction
-    
+
     2.3 Classification Models
-    
+
     2.4 Existing Data Sets 
-    
+
 3 Objective Specification and Presentation of the Research Design
 
     3.1 Objective specification
-    
+
     3.2 Research Design
-    
-    3.2 Selection and Description of the Dataset
-    
-    3.3 Selection of Comparison Metrics
-    
-    3.4 Selection of the Methods to be Compared
-    
+
+    3.3 Selection and Description of the Dataset
+
+    3.4 Selection of Comparison Metrics
+
+    3.5 Selection of the Methods to be Compared
+
 4 Test Execution
 
     4.1 Implementation of Different Methods
-    
+
     4.2 Evaluation of Different Methods
     
-5 Discussion of Results
+5 Discussion of Results and Critical Reflection
 
-6 Critical Reflection and Outlook
 ## Schedule:
 Week 1: Further and more precise literature review to gather relevant articles, exact determination of the methods and algorithms to be practically compared through literature
 
