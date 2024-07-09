@@ -3,7 +3,7 @@
 | Classifier | Vectorizer | Accuracy | F1-Score | Precision | Recall | Processing Time (in min) |
 |------------|------------|----------|----------|-----------|--------|-----------------|
 | Dummy | TF-IDF | 0.497 | 0.495 | 0.496 | 0.495 | 0.01 |
-| Random Forest | TF-IDF | 0.99 | 0.99 | 0.993 | 0.987 |  |
+| Random Forest | TF-IDF | 0.99 | 0.99 | 0.993 | 0.987 | 2.57 |
 | Logistic Regression | TF-IDF | 0.989 | 0.989 | 0.985 | 0.992 | 0.02 |
 | Linear Support Vector Machine | TF-IDF | 0.993 | 0.993 | 0.993 | 0.994 | 17.86 |
 | Poly Support Vektor Machine | TF-IDF | 0.979 | 0.979 | 0.998 | 0.961 | 128.6 |
