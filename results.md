@@ -8,7 +8,7 @@
 | Linear Support Vector Machine | TF-IDF | 0.993 | 0.993 | 0.993 | 0.994 | 17.86 |
 | Poly Support Vektor Machine | TF-IDF | 0.979 | 0.979 | 0.998 | 0.961 | 128.6 |
 | Multinomial Naive Bayes | TF-IDF | 0.978 | 0.977 | 0.995 | 0.961 | 0.01 |
-| K-Nearest-Neighbor | TF-IDF | 0.695 | 0.766 | 0.620 | 1.0 (0.99962) | 0.68 |
+| K-Nearest-Neighbor | TF-IDF | 0.695 | 0.766 | 0.620 | 1.0 | 0.68 |
 | Gradient Boosting Machine | TF-IDF | 0.943 | 0.944 | 0.93 | 0.959 | 3.45 |
 
 
