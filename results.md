@@ -1,6 +1,6 @@
 # Table with Results (random_state=42)
 
-| Classifier | Vectorizer | Accuracy | F1-Score | Precision | Recall | Processing Time in min |
+| Classifier | Vectorizer | Accuracy | F1-Score | Precision | Recall | Processing Time (in min) |
 |------------|------------|----------|----------|-----------|--------|-----------------|
 | Dummy | TF-IDF | 0.497 | 0.495 | 0.496 | 0.495 | 0.01 |
 | Random Forest | TF-IDF | 0.99 | 0.99 | 0.993 | 0.987 |  |
