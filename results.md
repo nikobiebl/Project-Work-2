@@ -11,4 +11,9 @@
 | K-Nearest-Neighbor | TF-IDF | 0.695 | 0.766 | 0.620 | 1.0 | 0.68 |
 | Gradient Boosting Machine | TF-IDF | 0.943 | 0.944 | 0.93 | 0.959 | 3.45 |
 
+## Neuronal Network Classifier Results
+
+| Classifier | Vectorizer | Accuracy | F1-Score | Precision | Recall | Processing Time (in min) |
+|------------|------------|----------|----------|-----------|--------|-----------------|
+| Neuronal Network | TF-IDF | 0.996 | 0.996 | 0.996 | 0.996 | 60.01 |
 
