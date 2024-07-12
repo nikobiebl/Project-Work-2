@@ -1,6 +1,6 @@
 # Project Thesis Structure
 ## Working Title:
-Classical Machine Learning for Email Phishing Detection: A Comparative Study
+Machine Learning for Email Phishing Detection on a Novel Data Set
 ## Problem Definition:
 Comprehensive email traffic remains by far the biggest security risk in large companies and cyberattacks are becoming increasingly popular as a result. Consequently, many companies are forced to make significant investments in cybersecurity. One effective method of reducing the risk of phishing emails and alleviating the burden on cybersecurity teams is the automated classification of emails using machine learning classifiers.
 Since email data from companies usually contains confidential and internal information, this data is not available to the public or the scientific community. Therefore, the number of email datasets from real corporate contexts is significantly low. The few datasets that are available are neither up to date nor of high quality.
