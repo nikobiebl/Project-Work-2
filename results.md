@@ -26,7 +26,7 @@
 | Multi Layer Perceptron | TF-IDF | 0.99554 | 0.99553 | 0.99528 | 0.99578 | 15 | 248m 31.2s |
 
 
-## Treshold - Classifiable - Table similar to the on in Nebula
+## Treshold - Classifiable - Table similar to the on in Nebula (hidden_layer_sizes=(100, 50, 25), max_iter=1)
 
 |   threshold   |   classifiable   |   accuracy   |   precision   |   recall   |   f1   |
 |---------------|------------------|--------------|---------------|------------|--------|
@@ -82,7 +82,7 @@
 |     0.99      |       95.125526  |   99.993302  |  100.000000   |  99.986667 | 99.993333 |
 
 
-## Shorter Version
+## Shorter Version (hidden_layer_sizes=(100, 50, 25), max_iter=1)
 
 |   threshold   |   classifiable   |   accuracy   |   precision   |   recall   |   f1   |
 |---------------|------------------|--------------|---------------|------------|--------|
