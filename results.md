@@ -8,22 +8,22 @@
 | Logistic Regression | 0.989 | 0.989 | 0.986 | 0.992 | 1.2s |
 | Poly Support Vektor Machine | 0.983 | 0.983 | 0.997 | 0.969 | 130m 49.7s |
 | Multinomial Naive Bayes | 0.979 | 0.979 | 0.994 | 0.965 | 0.2s |
-| Gradient Boosting Machine | 0.943 | 0.943 | 0.928 | 0.96 | 2m 48.2s |
 | K-Nearest-Neighbor | 0.979 | 0.979 | 0.982 | 0.976 | 33.2s |
+| Gradient Boosting Machine | 0.943 | 0.943 | 0.928 | 0.96 | 2m 48.2s |
 | Dummy | 0.497 | 0.495 | 0.496 | 0.495 | 0.1s |
 
 
 ## Multi Layer Perceptron Results by Iterations
 
-| Classifier | Vectorizer | Accuracy | F1-Score | Precision | Recall | Iterations | Processing Time |
-|------------|------------|----------|----------|-----------|--------|------------|-----------------|
-| Multi Layer Perceptron | TF-IDF | 0.99318 | 0.99317 | 0.99247 | 0.99387 | 1 | 3m 8.0s |
-| Multi Layer Perceptron | TF-IDF | 0.99599 | 0.99597 | 0.99629 | 0.99566 | 3 | 8m 42.4s |
-| Multi Layer Perceptron | TF-IDF | 0.99630 | 0.99630 | 0.99630 | 0.99630 | 4 | 12m 37.5s | 
-| Multi Layer Perceptron | TF-IDF | 0.99630 | 0.99630 | 0.99630 | 0.99630 | 5 | 21m 55.7s |
-| Multi Layer Perceptron | TF-IDF | 0.99618 | 0.99617 | 0.99642 | 0.99591 | 6 | 16m 17.0s |
-| Multi Layer Perceptron | TF-IDF | 0.99618 | 0.99617 | 0.99629 | 0.99604 | 7 | 52m 15.2s | 
-| Multi Layer Perceptron | TF-IDF | 0.99554 | 0.99553 | 0.99528 | 0.99578 | 15 | 248m 31.2s |
+| Classifier | Accuracy | F1-Score | Precision | Recall | Iterations | Processing Time |
+|------------|----------|----------|-----------|--------|------------|-----------------|
+| Multi Layer Perceptron | 0.99318 | 0.99317 | 0.99247 | 0.99387 | 1 | 3m 8.0s |
+| Multi Layer Perceptron | 0.99599 | 0.99597 | 0.99629 | 0.99566 | 3 | 8m 42.4s |
+| Multi Layer Perceptron | 0.99599 | 0.99598 | 0.99591 | 0.99604 | 4 | 11m 6s | 
+| Multi Layer Perceptron | 0.99630 | 0.99630 | 0.99630 | 0.99630 | 5 | 21m 55.7s |
+| Multi Layer Perceptron | 0.99618 | 0.99617 | 0.99642 | 0.99591 | 6 | 16m 17.0s |
+| Multi Layer Perceptron | 0.99618 | 0.99617 | 0.99629 | 0.99604 | 7 | 52m 15.2s | 
+| Multi Layer Perceptron | 0.99554 | 0.99553 | 0.99528 | 0.99578 | 15 | 248m 31.2s |
 
 
 ## Treshold - Classifiable - Table similar to the on in Nebula (hidden_layer_sizes=(100, 50, 25), max_iter=1)
