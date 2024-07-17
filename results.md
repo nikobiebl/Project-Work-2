@@ -1,16 +1,16 @@
-# Table with Results (random_state=42)
+# Results Classifier (random_state=42)
 
-| Classifier | Vectorizer | Accuracy | F1-Score | Precision | Recall | Processing Time |
-|------------|------------|----------|----------|-----------|--------|-----------------|
-| Multi Layer Perceptron | TF-IDF | 0.996 | 0.996 | 0.996 | 0.996 | 12m 37.5s | 
-| Linear Support Vector Machine | TF-IDF | 0.993 | 0.993 | 0.993 | 0.994 | 17m 50s |
-| Random Forest | TF-IDF | 0.99 | 0.99 | 0.993 | 0.987 | 2m 36.2s |
-| Logistic Regression | TF-IDF | 0.989 | 0.989 | 0.985 | 0.992 | 1.2s |
-| Poly Support Vektor Machine | TF-IDF | 0.979 | 0.979 | 0.998 | 0.961 | 128m 33.8s |
-| Multinomial Naive Bayes | TF-IDF | 0.978 | 0.977 | 0.995 | 0.961 | 0.2s |
-| Gradient Boosting Machine | TF-IDF | 0.943 | 0.944 | 0.93 | 0.959 | 3m 27.4s |
-| K-Nearest-Neighbor | TF-IDF | 0.695 | 0.766 | 0.620 | 1.0 | 0.68 |
-| Dummy | TF-IDF | 0.497 | 0.495 | 0.496 | 0.495 | 0.2s |
+| Classifier | Accuracy | F1-Score | Precision | Recall | Processing Time |
+|------------|----------|----------|-----------|--------|-----------------|
+| Multi Layer Perceptron (max_iter=4) | 0.996 | 0.996 | 0.996 | 0.996 | 11m 6s | 
+| Linear Support Vector Machine | 0.995 | 0.995 | 0.995 | 0.996 | 19m 7s |
+| Random Forest | 0.991 | 0.991 | 0.995 | 0.987 | 1m 46.5s |
+| Logistic Regression | 0.989 | 0.989 | 0.986 | 0.992 | 1.2s |
+| Poly Support Vektor Machine | 0.983 | 0.983 | 0.997 | 0.969 | 130m 49.7s |
+| Multinomial Naive Bayes | 0.979 | 0.979 | 0.994 | 0.965 | 0.2s |
+| Gradient Boosting Machine | 0.943 | 0.943 | 0.928 | 0.96 | 2m 48.2s |
+| K-Nearest-Neighbor | 0.979 | 0.979 | 0.982 | 0.976 | 33.2s |
+| Dummy | 0.497 | 0.495 | 0.496 | 0.495 | 0.1s |
 
 
 ## Multi Layer Perceptron Results by Iterations
