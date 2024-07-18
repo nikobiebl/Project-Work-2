@@ -1,5 +1,5 @@
 # Project-Thesis
-As part of my dual studies program, I am writing a project thesis on "Comparative Evaluation of Classical Machine Learning Methods for Phishing Detection Using Text-Based Features on a Novel Dataset"
+As part of my dual studies program, I am writing a project thesis on "Machine Learning for Email Phishing Detection on a Novel Data Set"
 
 # Data Set used in the project: 
 https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset/data?select=phishing_email.csv
