@@ -1,5 +1,5 @@
 # Project-Work-2
-This repository contains the source code of my Project Work 2 with the title "Machine Learning for Email Phishing Detection: Introduction of Reject Option Concept"
+This repository contains the source code of my Project Work 2 with the title "Machine Learning for Email Phishing Detection: Introducing the Reject Option Concept".
 
 The dataset used for this project is publicly available on Kaggle: https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset/data?select=phishing_email.csv
 
