@@ -1,6 +1,8 @@
-# Project-Thesis
-As part of my dual studies program, I am writing a project thesis on "Machine Learning for Email Phishing Detection on a Novel Data Set"
+# Project-Work-2
+This repository contains the source code of my Project Work 2 with the title "Machine Learning for Email Phishing Detection"
 
-# Data Set used in the project: 
+Dataset used:
+
 https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset/data?select=phishing_email.csv
+
 (Al-Subaiey, A., Al-Thani, M., Alam, N. A., Antora, K. F., Khandakar, A., & Zaman, S. A. U. (2024, May 19). Novel Interpretable and Robust Web-based AI Platform for Phishing Email Detection. ArXiv.org. https://arxiv.org/abs/2405.11619)
